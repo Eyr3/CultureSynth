@@ -3,5 +3,5 @@ This is the code repository for the paper "CultureSynth: A Hierarchical Taxonomy
 ## Data Files
 
 - `topic_standard_7lang.xlsx`: The complete table of cultural topics and keywords across 7 languages
-- `qa_7lang_annotated.xlsx`: The CultureSynth-7 dataset containing question-answer pairs, where each entry features clear and well-defined questions, culturally relevant inquiries, and comprehensive high-quality answers.
+- `qa_7lang_annotated.xlsx`: A part of the CultureSynth-7 dataset, containing question-answer pairs where each entry features clear and well-defined questions, culturally relevant questions, and high-quality answers.
 
