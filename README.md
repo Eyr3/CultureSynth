@@ -1,4 +1,4 @@
-This is the code repository for the paper "CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis".
+This repository contains the dataset for the paper ["CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis"](https://arxiv.org/abs/2509.10886). Accepted as a Findings paper at EMNLP 2025.
 
 ## Data Files
 
